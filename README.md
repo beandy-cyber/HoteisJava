@@ -22,7 +22,7 @@ Misturando estas ferramentas e linguagens, foi criada uma página que, rodando o
 - Link para um site de hospedagem.
 
 ## O que esperar?
-Além do que foi descrito acima, a atividade também foi pensada para englobar o **front-end** e valorizando o **User Experience**, que foi inspirado no design da atividade de hospedagem feita anteriormente ([Traveller](https://cerulean-salmiakki-6a926c.netlify.app/)), utilizando a mesma paleta estipulada na Fase 3, que estará disponível no documento linkado a seguir, junto da explicação da escolha de cores:
+Além do que foi descrito acima, a atividade também foi pensada para englobar o **front-end** e valorizando o **User Experience**, que foi inspirado no design da atividade de hospedagem feita anteriormente ([Traveller](https://cerulean-salmiakki-6a926c.netlify.app/)), utilizando a mesma paleta estipulada na Fase 3, que estará disponível no documento linkado a seguir, junto da explicação da lógica por trás da escolha de cores:
 
 [Cap 2 - Cores merecem atenção - Atividade 1 - Paleta de cores](https://docs.google.com/document/d/1KdRP5OEOKkJVTTkGQnRMWaYlIILow9QrMGsoVA9YCLw/edit?usp=sharing)
 
