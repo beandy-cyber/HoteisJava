@@ -13,7 +13,7 @@ Utilizando a linguagem **Java** foi criada a atividade em padrão **MVC** (Model
 Com **jsp** foi desenvolvido o front-end, utilizando **css** interno; framework **bootstrap** para auxiliar na estruturação de elementos das páginas; API de fontes do **Google Fonts**, para personalizar a tipografia; o pacote de ícones do **Font Awesome** e, por fim, o JavaScript interno. 
 
 ## Como acessar?
-Misturando estas ferramentas e linguagens, foi criada uma página que, rodando o projeto com **Apache 8** e pesquisando no input do navegador o **localhost:n°DoLocalhost/nomeDaPasta/recupera.do** e complementar com '**?=id**' receberemos, ou uma página de erro informando qual é o problema, junto da recomendação de como prosseguir, ou a página de um hotel, passando as seguintes informações requisitadas no case do **Projeto Gulliver Traveller**:
+Misturando estas ferramentas e linguagens, foi criada uma página  na **IDE Eclipse** que, rodando o projeto com **Apache 8** e pesquisando no input do navegador o **localhost:n°DoLocalhost/nomeDaPasta/recupera.do** e complementar com '**?=id**' receberemos, ou uma página de erro informando qual é o problema, junto da recomendação de como prosseguir, ou a página de um hotel, passando as seguintes informações requisitadas no case do **Projeto Gulliver Traveller**:
 
 - Nome do hotel;
 - Local (Cidade e Estado);
